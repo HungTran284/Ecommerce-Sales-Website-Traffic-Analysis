@@ -31,12 +31,12 @@ This Sales Dashboard provides a detailed overview of Seller A’s July performan
 - Average Order Value (AOV) approx. 275K VND, equivalent to 1.24 orders per customer.
 - Order completion rate was 80%, cancellations accounted for 20% of total orders.
 - Only 8.3B VND came from completed orders, while 2.1B VND were cancelled.
-**Insight:** Overall, company’s business performance in July was stable, but high cancellation rate issue is critical and needs to be resolved to sustain growth and improve profitability.
+> **Insight:** Overall, company’s business performance in July was stable, but high cancellation rate issue is critical and needs to be resolved to sustain growth and improve profitability.
 
 ### Purchase frequency
 - About 80% of customers purchased once per month.
 - About 16% of customers made a second purchase, but 39% of them cancelled.
-**Insight:** This suggests the first-order experience may not meet expectations, causing hesitations for repeat purchases.
+> **Insight:** This suggests the first-order experience may not meet expectations, causing hesitations for repeat purchases.
 
 ### Relation between Average Order Value and Discount
 - Cancelled orders are mostly at very high discounts or low AOV.
@@ -50,44 +50,51 @@ This Traffic Dashboard provides an overview of Seller A’s website performance,
 - Revenue & Users: In July, revenue reached 10B with over 10,000 transactions. Out of 657K users, 529K (80.6%) were new, showing strong customer acquisition.
 - Website Performance: Bounce Rate was 68.1%, indicating many visitors left immediately. Users viewed 2.85 pages per session on average, spending 141 seconds, showing moderate engagement with room to guide them further.
 - Purchasing Performance: Revenue per session was ~8,000, but Conversion Rate was only 0.45%, highlighting high traffic but low conversion and need to optimize the shopping experience.
-**Insight:** Although traffic volume is high, the Conversion Rate remains relatively low, emphasizing that company need to optimize the shopping experience and customer journey to increase revenue.
+> **Insight:** Although traffic volume is high, the Conversion Rate remains relatively low, emphasizing that company need to optimize the shopping experience and customer journey to increase revenue.
 
 ### Medium performance & Revenue
 - All other medium account for only a very small proportion, about 3–4% of revenue.
 - Cost Per Click (CPC) brings in the most revenue, over 6.6 billion (66%).
 - Social makes 13%, Direct 10%, and Referral 7%.
-**Insight:** Revenue is concentrated in just a few sources so company should consider diversifying its medium to reduce risk.
+> **Insight:** Revenue is concentrated in just a few sources so company should consider diversifying its medium to reduce risk.
 
 ### Conversion and Efficiency
 - Email has the highest conversion rate at over 2.5%, showing it is highly effective in driving purchases.
 - Zalo, Direct, Organic, and Referral follow with around 1% conversion, showing potential for optimization.
 - CPC, Display, and Social have much lower conversion rates, highlighting their limitations in turning traffic into revenue.
-**Insight:** Although Email doesn’t generate the most revenue, it attracts customers who are more likely to buy. Can make it into a focused and efficient medium.
+> **Insight:** Although Email doesn’t generate the most revenue, it attracts customers who are more likely to buy. Can make it into a focused and efficient medium.
 
 ### Engagement Impact on Conversion
 - Most high revenue sources are concentrated around 4–5 pages per session and 200–400 seconds of average session duration.
 - Some sources attract visitors who spend a long time on the website and view many pages but have not yet converted.
-**Insight:** Customers interact deeply before purchasing, indicating high-quality traffic. This suggests there is potential to increase revenue by improving user experience.
+> **Insight:** Customers interact deeply before purchasing, indicating high-quality traffic. This suggests there is potential to increase revenue by improving user experience.
 
 ### Value per Visit
 - Email has high RPS and low Bounce Rate, showing that traffic from this medium is high-quality and users engage deeply.
 - Direct and CPC also show fairly good RPS and Bounce Rate.
 - In contrast, Social has a high Bounce Rate and low RPS, indicating that users from this medium leave quickly and contribute little value.
-**Insight:**  This suggests the company should focus on mediums like Email, Direct, and CPC for quality traffic, while finding ways to improve engagement from Social.
+> **Insight:**  This suggests the company should focus on mediums like Email, Direct, and CPC for quality traffic, while finding ways to improve engagement from Social.
 
 ## 3. Recommendation for August
-### With Sales performance
-- Cancellation & Repeat order: The overall cancellation rate was high at 20%, and second-purchase cancellations reached 39%, indicating issues in customer experience, promotions, or delivery.
-**Recommendation:** Review fulfillment process to reduce cancellations and introduce loyalty programs, special offers for boosting repeat purchases. Increasing discount without improving after-sales services could backfire.
-- Low AOV Orders & Discounts: High-value orders received bigger discounts and had higher completion rates, while low-value orders or heavily discounted orders faced more cancellations.
-**Recommendation:** Encourage higher order value through upselling, bundle offers, or spending-based rewards. Focus marketing resources on high spending customers.
-- Promotion campaign: only effective during 1 - 2 days, after which its impact quickly diminished.
-**Recommendation:** Run smaller promotions more often and give customers simple rewards to keep sales steady.
 
-### With Traffic performance
-- Poor Traffic Quality: Most users were new, but Bounce Rate was 68% and Conversion Rate only 0.45%, additionally traffic volume was high but conversion efficiency remained low indicating their potential is being wasted.
-**Recommendation:** Improve landing page experience, optimize page loading speed, and add clear CTAs to reduce bounce and increase conversions. Focus budget on high-performing content.
--- Potential Customer: Users spending 200-400 seconds and viewing 4-5 pages are more likely to purchase, but some highly active visitors still do not convert.
-**Recommendation:** Optimize the conversion process by simplifying key actions and offer incentives.
--- Email Performance: Email generated less revenue but had the highest conversion rate (>2.5%), indicating high-quality traffic with strong purchase intent.
-**Recommendation:** Expand the mailing list, run automated campaigns such as cart abandonment reminders or cross-sell suggestions.
+### With Sales Performance
+- **Cancellation & Repeat Orders:** The overall cancellation rate was high at 20%, and second-purchase cancellations reached 39%, indicating issues in customer experience, promotions, or delivery.  
+> **Recommendation:** Review the fulfillment process to reduce cancellations and introduce loyalty programs or special offers to boost repeat purchases. Avoid increasing discounts without improving after-sales service, as it could backfire.  
+
+- **Low AOV Orders & Discounts:** High-value orders received bigger discounts and had higher completion rates, while low-value or heavily discounted orders faced more cancellations.  
+> **Recommendation:** Encourage higher order value through upselling, bundle offers, or spending-based rewards. Focus marketing resources on high-spending customers.  
+
+- **Promotion Campaigns:** Campaigns were effective only for 1–2 days, after which their impact quickly diminished.  
+> **Recommendation:** Run smaller, more frequent promotions and offer simple rewards to maintain steady sales.  
+
+---
+
+### With Traffic Performance
+- **Poor Traffic Quality:** Most users were new, but the Bounce Rate was 68% and the Conversion Rate only 0.45%. Although traffic volume was high, conversion efficiency remained low, indicating wasted potential.  
+> **Recommendation:** Improve landing page experience, optimize page loading speed, and add clear CTAs to reduce bounce and increase conversions. Focus budget on high-performing content.  
+
+- **Potential Customers:** Users spending 200–400 seconds and viewing 4–5 pages are more likely to purchase, yet some highly active visitors still do not convert.  
+> **Recommendation:** Simplify the conversion process and offer small incentives to motivate purchase actions.  
+
+- **Email Performance:** Email generated less revenue but had the highest conversion rate (>2.5%), indicating high-quality traffic with strong purchase intent.  
+> **Recommendation:** Expand the mailing list and run automated campaigns such as cart-abandonment reminders or cross-sell suggestions.  
