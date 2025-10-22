@@ -44,6 +44,7 @@ This Sales Dashboard provides a detailed overview of Seller A’s July performan
 
 ## 2. Website traffic analysis
 This Traffic Dashboard provides an overview of Seller A’s website performance, visualizing key metrics such as traffic sources, engagement, and conversion to identify opportunities for improving efficiency and driving growth.
+<img width="1301" height="727" alt="image" src="https://github.com/user-attachments/assets/cf31361b-b50b-460e-b3ea-da40719a75a0" />
 
 ### Company’s Traffic performance
 - Revenue & Users: In July, revenue reached 10B with over 10,000 transactions. Out of 657K users, 529K (80.6%) were new, showing strong customer acquisition.
